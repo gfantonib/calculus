@@ -1,7 +1,7 @@
 # calculus
 This repository contains differentiation and integration python functions.
 
-The differentiation algorithm gives you the maximum and minumum points of a function, including the maximorum and minimorum points.
+The differentiation algorithm gives you the maximum and minumum points of a function on a given interval [a, b], including the maximorum and minimorum points.
 
 The integration algorithm gives you the area under a given function on a given interval [a, b].
 The Simpson method was used (using trapezois instead of rectangles).
